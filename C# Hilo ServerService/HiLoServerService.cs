@@ -20,7 +20,7 @@ using System.Threading.Tasks;
 using System.Configuration;
 using System.Threading;
 
-namespace WMPA06
+namespace HiLo_serverService
 {
     public partial class HiLoServerService : ServiceBase
     {

@@ -13,7 +13,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WMPA06
+namespace HiLo_serverService
 {
     /// <summary>
     /// CLASS NAME : Session

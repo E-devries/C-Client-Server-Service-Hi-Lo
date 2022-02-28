@@ -1,4 +1,4 @@
-﻿namespace WMPA06
+﻿namespace HiLo_serverService
 {
     partial class HiLoServerService
     {

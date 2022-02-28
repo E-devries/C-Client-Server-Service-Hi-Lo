@@ -5,7 +5,7 @@
     FIRST VERSION : 2021-11-10
     DESCRIPTION   : this file contains the xaml for the game window, where the user will interact with the server to play a Hi-Lo game.
 -->
-<Window x:Name="Game" x:Class="WMP_A05_Client.GameWindow"
+<Window x:Name="Game" x:Class="HiLo_Client.GameWindow"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"

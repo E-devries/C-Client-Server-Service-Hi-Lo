@@ -13,7 +13,7 @@ using System.ServiceProcess;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WMPA06
+namespace HiLo_serverService
 {
     static class Program
     {

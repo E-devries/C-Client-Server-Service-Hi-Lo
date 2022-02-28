@@ -23,7 +23,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
-namespace WMP_A05_Client
+namespace HiLo_Client
 {
     /// <summary>
     /// Interaction logic for GameWindow.xaml

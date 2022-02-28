@@ -15,7 +15,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Configuration;
 
-namespace WMPA06
+namespace HiLo_serverService
 {
     /// <summary>
     /// CLASS NAME  : HiLoGame

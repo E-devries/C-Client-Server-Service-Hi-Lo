@@ -16,7 +16,7 @@ using System.IO;
 using System.Configuration;
 using System.Diagnostics;
 
-namespace WMPA06
+namespace HiLo_serverService
 {
     static class Logger
     {

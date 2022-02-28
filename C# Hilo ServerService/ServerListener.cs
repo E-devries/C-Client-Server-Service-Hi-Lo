@@ -18,7 +18,7 @@ using System.Net;
 using System.Net.Sockets;
 using System.Configuration;
 
-namespace WMPA06
+namespace HiLo_serverService
 {
 
     /// <summary>

@@ -12,7 +12,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Net.Sockets;
 
-namespace WMP_A05_Client
+namespace HiLo_Client
 {
     /// <summary>
     /// CLASS NAME  : ClientSpeaker

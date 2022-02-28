@@ -23,7 +23,7 @@ using System.Windows.Shapes;
 using System.Configuration;
 using System.Text.RegularExpressions;
 
-namespace WMP_A05_Client
+namespace HiLo_Client
 {
     /// <summary>
     /// Interaction logic for SettingsWindow.xaml

@@ -24,7 +24,7 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.Configuration;
 
-namespace WMP_A05_Client
+namespace HiLo_Client
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml

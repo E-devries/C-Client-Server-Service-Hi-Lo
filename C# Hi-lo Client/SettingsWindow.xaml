@@ -8,7 +8,7 @@
                   : They will also be able to click the return button to return to the MainWindow. 
 -->
     
-<Window x:Name="Settings" x:Class="WMP_A05_Client.SettingsWindow"
+<Window x:Name="Settings" x:Class="HiLo_Client.SettingsWindow"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
